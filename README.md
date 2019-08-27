@@ -1,2 +1,2 @@
 # Breast Cancer Classifier
-Used the breast cancer wisconsin dataset from sklearn to classify a given input into malignant or benign cancer.
+Used Support Vector Machine to classify a given image from breast cancer wisconsin dataset (sklearn) into malignant or benign cancer.
